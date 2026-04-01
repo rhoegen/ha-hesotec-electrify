@@ -1,0 +1,12 @@
+{
+  "domain": "hesotec_electrify",
+  "name": "ha-hesotec-electrify",
+  "codeowners": [
+    "@rehoegen"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/rehoegen/ha-hesotec-electrify",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/rehoegen/ha-hesotec-electrify/issues",
+  "version": "0.1.0"
+}
